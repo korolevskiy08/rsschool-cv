@@ -39,3 +39,24 @@
     display: flex;
     justify-content: center;
 }
+.my-info{
+    padding: 50px;
+}
+.foto > img{
+    height: 200px;
+    border-radius: 50px;
+}
+#id2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background: #09c065;
+}
+.footer{
+    background-color: #09c065;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
