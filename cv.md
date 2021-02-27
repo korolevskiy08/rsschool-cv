@@ -23,3 +23,13 @@ function factorial(n)
   return result;
 }
 ```
+6. Experience in the field IT:
+* 
+
+7. Education:
+* Minsk State Polytechnic College: technician-technologist(2012-2016)
+
+8. Languages:
+* Russian(native);
+* English(elementary);
+* Poliыр(B1);
