@@ -7,7 +7,7 @@
     height: 100%;
 }
 
-#id1{
+.id1{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -46,7 +46,7 @@
     height: 200px;
     border-radius: 50px;
 }
-#id2{
+.id2{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -60,3 +60,7 @@ a{
     text-decoration: none;
     color: black;
 }
+.con-left{
+    text-align: left;
+}
+
