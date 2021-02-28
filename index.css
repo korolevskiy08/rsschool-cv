@@ -55,6 +55,9 @@
 }
 .footer{
     background-color: #09c065;
+    font-size: 19px;
+    text-align: center;
+    font-family: Noto Sans JP;
 }
 a{
     text-decoration: none;
@@ -63,3 +66,11 @@ a{
 .con-left{
     text-align: left;
 }
+
+
+
+
+
+
+
+
